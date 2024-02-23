@@ -4,3 +4,6 @@ https://docs.spring.io/spring-framework/reference/web/webmvc/mvc-controller.html
 Solcions de @PathVariable optional:
 https://www.baeldung.com/spring-optional-path-variables
 
+Per penjar a GitHub arxius amb filenames tant llargs:
+https://stackoverflow.com/questions/22575662/filename-too-long-in-git-for-windows
+
