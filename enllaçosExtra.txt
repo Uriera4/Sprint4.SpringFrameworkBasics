@@ -1,0 +1,6 @@
+Biblioteca de anotacions de Spring Boot:
+https://docs.spring.io/spring-framework/reference/web/webmvc/mvc-controller.html
+
+Solcions de @PathVariable optional:
+https://www.baeldung.com/spring-optional-path-variables
+
